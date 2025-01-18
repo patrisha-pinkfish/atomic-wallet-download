@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/396de710-ab05-45ea-bbab-cb8b4e4ec0d3)# Atomic Wallet: How to Install on Windows
+# Atomic Wallet: How to Install on Windows
 ![Atomic Wallet](https://github.com/user-attachments/assets/0aeb1e80-2162-4d94-8919-f9800f39db33)
 
 The **Atomic Wallet** is a comprehensive software solution designed for seamless cryptocurrency management across multiple blockchain networks. With the ability to manage over 500 coins and tokens, the **atom wallet** caters to diverse digital asset portfolios. It provides an intuitive platform that simplifies tasks such as transactions, trading, and staking directly from your device. Users appreciate its built-in exchange feature, which allows them to swap cryptocurrencies without leaving the app. Security is paramount, with private keys encrypted and stored only on the user's device. The **atomic wallet download** ensures you are getting a secure and updated version for optimal performance.
